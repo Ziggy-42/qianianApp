@@ -1,0 +1,67 @@
+
+page {
+	background: #F0F0F0;
+}
+.text-cut {
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+}
+.goods-list {
+	padding: 14rpx;
+}
+.text-center {
+	text-align: center;
+}
+.goods-li {
+	padding: 14rpx 14rpx;
+}
+.goods-view {
+	/* border: solid 2upx #e6e4e4; */
+	border-radius: 10rpx;
+	overflow: hidden;
+}
+.goods-info {
+	padding: 10rpx 26rpx 26rpx 26rpx;
+}
+.goods-info .goods-name {
+	font-size: 30rpx;
+	margin-top: 10rpx;
+}
+.gooods-info .goods-conten {
+	font-size: 26rpx;
+	-webkit-transform: scale(0.5);
+	        transform: scale(0.5);
+}
+.goods-info .goods-price {
+	margin: 15rpx 0rpx;
+}
+.goods-info .goods-price .price {
+	font-size: 30rpx;
+	color: #ff4040;
+	margin-right: 10rpx;
+	font-weight: 550;
+}
+.goods-info .goods-price .old-price {
+	font-size: 23rpx;
+}
+.goods-info .goods-btn button {
+	width: 244rpx;
+	height: 50rpx;
+	background-color: #ffd100;
+	border-radius: 100rpx;
+	font-size: 21rpx;
+}
+.s-local { 
+	line-height: 46rpx;
+	font-size: 26rpx;
+	height: 46rpx;
+	margin: 15rpx;
+	padding: 0 15rpx;
+	border-radius: 10rpx;
+	background: #ddd;
+}
+.zhan {
+	clear: both;
+}
+

@@ -1,0 +1,24 @@
+
+page {
+	background: #f0f0f0;
+}
+.kong {
+	background: #f0f0f0;
+}
+.addres-icon {
+	font-size: 45rpx;
+	color: #ff4444;
+}
+.goods-bar {
+	font-size: 24rpx;
+	color: #3883ff;
+	background-color: #eff5ff;
+}
+.tk-btn {
+	background-color: #ffffff;
+	border-radius: 32rpx;
+	border: solid 1rpx #a0a0a0;
+	font-size: 26rpx;
+	color: #4b4b4b;
+}
+

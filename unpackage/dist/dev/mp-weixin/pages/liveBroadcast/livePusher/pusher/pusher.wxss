@@ -1,0 +1,260 @@
+
+page {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+.page {
+	overflow: hidden;
+}
+.plary {
+	width: 100%;
+	height: 100%;
+}
+.vai-view {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	color: #fff;
+	padding: 30rpx;
+	/* background-color: #d6d5d5; */
+}
+.user-view {
+	width: 280rpx;
+	height: 94rpx;
+	background-color: rgba(0, 0, 0, 0.4);  
+	border-radius: 47rpx;
+	padding: 15rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.user-view .user-avatar {
+	width: 66rpx;
+	height: 66rpx;
+	margin-right: 13rpx;
+}
+.user-view .user-name {
+	width: 120rpx;
+	font-size: 27rpx;
+	margin-bottom: 10rpx;
+}
+.user-view .user-id {
+	font-size: 23rpx;
+}
+.user-view .ubtn {
+	height: 49rpx;
+	padding: 0rpx 15rpx;
+	font-size: 23rpx;
+	background-color: #fff;
+	color: #b701e5;
+	border-radius: 1000rpx;
+}
+.qin-view {
+	width: 191rpx;
+	height: 57rpx;
+	background-color: rgba(0, 0, 0, 0.4);
+	border-radius: 29rpx;
+	font-size: 23rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.dm-view {
+	width: 400rpx;
+	height: 300rpx;
+	/* border: solid #FFFEFE 1upx; */
+	position: absolute;
+	bottom: 250rpx;
+}
+.dm-view scroll-view {
+	width: 100%;
+	height: 100%;
+	font-size: 25rpx;
+}
+.danmu-text-t1 {
+	background: rgba(0, 0, 0, 0.4);
+	font-size: 25rpx;
+	padding: 10rpx 30rpx;
+	border-radius: 100rpx;
+}
+.dowview {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	width: 100%;
+	position: absolute;
+	bottom: 35rpx;
+}
+.d-goods {
+	text-align: center;
+}
+.d-goods-image image {
+	width: 99rpx;
+	height: 99rpx;
+	margin-bottom: 10rpx;
+}
+.d-goods-num {
+	color: #fff;
+	width: 141rpx;
+	height: 40rpx;
+	font-size: 25rpx;
+	line-height: 40rpx;
+	border-radius: 10rpx;
+	background-color: rgba(0, 0, 0, 0.4);
+}
+.dowview .input-view {
+	width: 345rpx;
+	margin-left: 20rpx;
+	color: #fff;
+	padding-top: 80rpx;
+}
+.dowview .input-view input {
+	font-size: 28rpx;
+	color: #ffffff;
+	border-bottom: solid #fff 1rpx;
+	padding: 0rpx 20rpx;
+	height: 65rpx;
+	width: 100%;
+}
+.r-btn-icon {
+	height: 50rpx;
+}
+.r-btn-icon image {
+	width: 47rpx;
+	height: 39rpx;
+}
+.r-btn-view {
+	width: 170rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	margin-left: 20rpx;
+}
+.r-btn-view .r-btn-top {
+	height: 60rpx;
+}
+.cu-dialog {
+	background: rgba(0, 0, 0, 0.1);
+}
+.model-title {
+	height: 60rpx;
+	line-height: 60rpx;
+	color: #fff;
+}
+.beauty-view {
+	width: 100%;
+	height: 90rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	margin-bottom: 90rpx;
+}
+.beauty-view slider {
+	width: 500rpx;
+}
+.qx-view {
+	width: 90rpx;
+	height: 60rpx;
+	background: rgba(0, 0, 0, 0.4);
+	color: #fff;
+	text-align: center;
+	line-height: 60rpx;
+	margin-top: 40rpx;
+	border-radius: 10rpx;
+	font-size: 28rpx;
+}
+.priceqx {
+	margin-top: 10rpx;
+	background: rgba(0, 0, 0, 0.4);
+	border-radius: 10rpx;
+}
+.priceqx view {
+	border-bottom: #fff 1rpx solid;
+}
+.priceqx view:last-child {
+	border: none;
+}
+.goodslist3 {
+	padding: 0rpx;
+}
+.goods-name {
+	font-size: 28rpx;
+	color: #2c2c2c;
+}
+.goodsr {
+	height: 100rpx;
+}
+.price-color {
+	font-size: 29rpx;
+}
+.goodslist3 .goods-view {
+	margin-bottom: 0rpx;
+}
+.buy-btn {
+	width: 132rpx;
+	height: 54rpx;
+	background-image: -webkit-linear-gradient(150deg, #a44cff 0%, #c51cf0 100%);
+	background-image: linear-gradient(-60deg, #a44cff 0%, #c51cf0 100%);
+	border-radius: 27rpx;
+	font-size: 25rpx;
+	color: #ffffff;
+}
+
+/* 分享 */
+.share-d-view {
+	width: 750rpx;
+	height: 200rpx;
+	background-color: #ffffff;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	padding-top: 20rpx;
+}
+.share-d-view .share-btn {
+	font-size: 25rpx;
+	color: #2e2e2e;
+	border: none;
+}
+.share-d-view .share-btn image {
+	width: 66rpx;
+	height: 66rpx;
+}
+.goods-down {
+	width: 500rpx;
+}
+.goods-dview {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+

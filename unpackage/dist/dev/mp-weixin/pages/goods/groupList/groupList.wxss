@@ -1,0 +1,44 @@
+
+page {
+	background: #eeeeee;
+}
+.padding-air {
+	padding-top: 20rpx;
+}
+.goods-view {
+	width: 706rpx;
+	height: 270rpx;
+	background-color: #ffffff;
+	border-radius: 20rpx;
+	margin: auto;
+	margin-bottom: 20rpx;
+	padding: 35rpx 40rpx 35rpx 25rpx;
+}
+.price {
+	font-size: 32rpx;
+	color: #f52618;
+}
+.old-price {
+	font-size: 26rpx;
+	color: #b8b8b8;
+	margin-left: 20rpx;
+}
+.bg-img {
+	border-radius: 12rpx;
+}
+.cu-btn {
+	width: 148rpx;
+	font-size: 24rpx;
+	height: 54rpx;
+	background-image: -webkit-linear-gradient(150deg, #ff4c29 0%, #ff7155 100%);
+	background-image: linear-gradient(-60deg, #ff4c29 0%, #ff7155 100%);
+	border-radius: 27rpx;
+	color: #FFF;
+}
+.tag-view {
+	background-color: #ffe4df !important;
+	border-radius: 4rpx;
+	font-size: 26rpx;
+	color: #ff0101;
+}
+

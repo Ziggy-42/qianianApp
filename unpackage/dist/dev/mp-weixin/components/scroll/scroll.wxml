@@ -1,0 +1,1 @@
+<view><scroll-view class="sc-view" scroll-y refresher-triggered="{{refresh}}" refresher-enabled="true" refresher-background="#f0f0f0" data-event-opts="{{[['refresherrefresh',[['downrefresh',['$event']]]],['refresherrestore',[['restore',['$event']]]]]}}" bindrefresherrefresh="__e" bindrefresherrestore="__e"><slot></slot></scroll-view></view>

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "礼品兑换",
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  }
+}

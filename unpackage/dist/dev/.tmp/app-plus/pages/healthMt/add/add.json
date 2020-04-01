@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "记录数据",
+  "usingComponents": {
+    "chun-lei-modal": "/components/chunLei-modal/chunLei-modal"
+  }
+}

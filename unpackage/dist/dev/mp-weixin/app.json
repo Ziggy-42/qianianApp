@@ -1,0 +1,217 @@
+{
+  "pages": [
+    "pages/tab/index/index",
+    "pages/tab/liveBroad/liveBroad",
+    "pages/tab/mine/mine",
+    "pages/tab/material/material",
+    "pages/cart/cart",
+    "pages/login/login",
+    "components/goods/top/top"
+  ],
+  "subPackages": [
+    {
+      "root": "pages/meeting",
+      "pages": [
+        "qiandan/info/info",
+        "index/index",
+        "mine/mine",
+        "signInlist/signInlist",
+        "signInlist/info/info",
+        "signInlist/info/info1",
+        "message/message",
+        "meetingInfo/meetingInfo",
+        "message/msgInfo/msgInfo",
+        "signIn/signIn",
+        "signIn/signIn1",
+        "signIn/signIn2",
+        "userinfo/userinfo",
+        "exchangeList/exchangeList",
+        "qiandan/qiandan"
+      ]
+    },
+    {
+      "root": "pages/liveBroadcast",
+      "pages": [
+        "livePLayer/player/player",
+        "livePusher/pusher/pusher",
+        "enter/enter",
+        "creationZbj/creationZbj",
+        "mylbzb/mylbzb",
+        "yugao/yugao",
+        "report/report",
+        "yugaoInfo/yugaoInfo",
+        "livedetail/livedetail",
+        "searchLevel/searchLevel"
+      ]
+    },
+    {
+      "root": "pages/order",
+      "pages": [
+        "orderlist/orderlist",
+        "orderinfo2/orderinfo2",
+        "createOrder/createOrder",
+        "refundOrder/refundOrder",
+        "shouhou/shouhouInfo/shouhouInfo",
+        "groupOrder/groupOrder",
+        "groupOrder/orderlist/orderlist",
+        "groupOrder/gorupgoodsinfo/gorupgoodsinfo",
+        "groupOrder/groupOrderInfo/groupOrderInfo"
+      ]
+    },
+    {
+      "root": "pages/earnings",
+      "pages": [
+        "earnings",
+        "orderlist/orderlist",
+        "tixian/tixian",
+        "errecording/errecording",
+        "orderinfo/orderinfo",
+        "myitem/myitem"
+      ]
+    },
+    {
+      "root": "pages/serve",
+      "pages": [
+        "attention/attention",
+        "collect/collect",
+        "video/video",
+        "video/infoList/infoList",
+        "enter/enter",
+        "address/address",
+        "address/addressinfo/addressinfo",
+        "generalize/generalize",
+        "message/message",
+        "userInfo/userInfo",
+        "membercentre/membercentre",
+        "xieyi/xieyi",
+        "attention/info/info",
+        "attention/goodslist/goodslist"
+      ]
+    },
+    {
+      "root": "pages/mch",
+      "pages": [
+        "enter/enter",
+        "orderList/orderList",
+        "orderInfo/orderInfo",
+        "mchinfo/mchinfo"
+      ]
+    },
+    {
+      "root": "pages/goods",
+      "pages": [
+        "goodsList/goodsList",
+        "goodsInfo/goodsInfo",
+        "classify/classify",
+        "searchGoods/searchGoods",
+        "index/index",
+        "groupList/groupList",
+        "goodsGroup/goodsGroup",
+        "timelimitList/timelimitList"
+      ]
+    },
+    {
+      "root": "pages/academy",
+      "pages": [
+        "videolist/videolist",
+        "videoInfo/videoInfo",
+        "videodetail/videodetail"
+      ]
+    },
+    {
+      "root": "pages/anchor",
+      "pages": [
+        "order/orderList/orderList",
+        "order/orderInfo/orderInfo",
+        "goods/storeroom/storeroom",
+        "goods/storeroom/addGoods/addGoods",
+        "goods/storeroom/addGoodstostor/addGoodstostor",
+        "goods/storeroom/addGoodslive/addGoodslive",
+        "goods/storeroom/addlive/addlive",
+        "goods/goodsInfo/goodsInfo",
+        "order/createOrder/createOrder",
+        "earnings/earnings",
+        "earnings/tixian/tixian",
+        "earnings/errecording/errecording"
+      ]
+    },
+    {
+      "root": "pages/healthMt",
+      "pages": [
+        "index/index",
+        "add/add",
+        "echart/echart",
+        "baogao/baogao",
+        "zice/zice"
+      ]
+    },
+    {
+      "root": "pages/information",
+      "pages": [
+        "index/index",
+        "list/list",
+        "info/info",
+        "push/push",
+        "up/up",
+        "updatainfo/updatainfo"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#b3b3b3",
+    "selectedColor": "#e11b01",
+    "backgroundColor": "#FFFFFF",
+    "list": [
+      {
+        "pagePath": "pages/tab/index/index",
+        "iconPath": "/static/tab/index.png",
+        "selectedIconPath": "/static/tab/index_cur.png",
+        "text": "商城"
+      },
+      {
+        "pagePath": "pages/tab/liveBroad/liveBroad",
+        "iconPath": "/static/tab/live.png",
+        "selectedIconPath": "/static/tab/live_cur.png",
+        "text": "直播"
+      },
+      {
+        "pagePath": "pages/tab/material/material",
+        "iconPath": "/static/tab/quan.png",
+        "selectedIconPath": "/static/tab/quan_cur.png",
+        "text": "商学院"
+      },
+      {
+        "pagePath": "pages/tab/mine/mine",
+        "iconPath": "/static/tab/mine.png",
+        "selectedIconPath": "/static/tab/mine_cur.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom",
+    "nolist": "/components/nolist",
+    "tabview": "/components/tabview",
+    "shear": "/components/shear",
+    "nomore": "/components/nomore",
+    "send-code": "/components/sendCode",
+    "uni-notice-bar": "/components/notice-bar/uni-notice-bar",
+    "chun-lei-modal": "/components/chunLei-modal/chunLei-modal",
+    "goodslist": "/components/goodslist",
+    "skeleton": "/components/J-skeleton/J-skeleton",
+    "scroll": "/components/scroll/scroll",
+    "imt-audio": "/components/imt-audio/imt-audio",
+    "g-audio": "/components/gaudio",
+    "material": "/pages/tab/material/material",
+    "goods-index": "/pages/tab/index/index",
+    "mine": "/pages/tab/mine/mine",
+    "live-broad": "/pages/tab/liveBroad/liveBroad"
+  },
+  "sitemapLocation": "sitemap75.json"
+}

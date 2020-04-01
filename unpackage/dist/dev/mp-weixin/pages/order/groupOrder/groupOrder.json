@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "确认订单",
+  "usingComponents": {
+    "chun-lei-modal": "/components/chunLei-modal/chunLei-modal"
+  }
+}

@@ -1,0 +1,101 @@
+
+page {
+	background: #ffffff;
+}
+.form-group {
+	height: 112rpx;
+	padding: 0rpx 58rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	background: #ffffff;
+	border-bottom: solid 1rpx #ebebeb;
+}
+.form-group label {
+	width: 150rpx;
+}
+.form-group .right {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+}
+.form-group .right input {
+	width: 100%;
+	height: 100rpx;
+	font-size: 28rpx;
+}
+.placeholder {
+	font-size: 28rpx;
+	color: #c6c6c6;
+}
+.upimg-view {
+	border-bottom: solid #eeeeee 1rpx;
+	padding: 0rpx 20rpx 10rpx;
+}
+.xieyi-view {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	height: 120rpx;
+	font-size: 25rpx;
+	color: #2d2d2d;
+}
+.xieyi-view .print {
+	height: 32rpx;
+}
+.xieyi-view .print image {
+	width: 32rpx;
+	height: 32rpx;
+	margin-right: 20rpx;
+}
+.xieyi-view .r-text {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.cu-btn {
+	width: 547rpx;
+	height: 72rpx;
+	background: #b000dd;
+	border-radius: 36rpx;
+	font-size: 30rpx;
+	color: #ffffff;
+	background-color: #b000dd;
+}
+.apply-result {
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 10;
+	-webkit-transition: 200ms;
+	transition: 200ms;
+	background: #fff;
+	display: none;
+	text-align: center;
+	padding: 150rpx 95rpx;
+}
+.apply-result.show {
+	display: block;
+}
+.apply-result .review-status {
+	margin-bottom: 12rpx;
+	font-size: 30rpx;
+}
+.apply-result .status-1 {
+	color: #1aa349;
+}
+.apply-result .review-result {
+	margin-bottom: 64rpx;
+}
+

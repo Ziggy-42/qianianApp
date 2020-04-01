@@ -1,0 +1,9 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "goods-index": "/pages/tab/goodsIndex/goodsIndex",
+    "academy": "/pages/tab/academy/academy",
+    "mine": "/pages/tab/mine/mine",
+    "live-broad": "/pages/tab/liveBroad/liveBroad"
+  }
+}

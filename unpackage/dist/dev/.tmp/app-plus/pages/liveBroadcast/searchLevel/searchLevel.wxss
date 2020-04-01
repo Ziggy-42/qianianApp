@@ -1,0 +1,87 @@
+
+page {
+	background: #F0F0F0;
+}
+.text-cut {
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+}
+.list {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	padding: 30rpx;
+}
+.list-view {
+	width: 335rpx;
+	height: 510rpx;
+	background-color: #eeeeee;
+	border-radius: 16rpx;
+	overflow: hidden;
+	position: relative;
+	margin-bottom: 20rpx;
+}
+.ven-view {
+	position: absolute;
+	top: 0rpx;
+	width: 100%;
+	height: 100%;
+	padding: 15rpx;
+	background: rgba(0, 0, 0, 0.1);
+}
+.list-viewbg {
+	width: 100%;
+	height: 100%;
+}
+.ven-view .cu-capsule {
+	font-size: 21rpx;
+}
+.ven-down {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.ven-down-avatar {
+	width: 64rpx;
+	height: 64rpx;
+	margin-right: 10rpx;
+}
+.ven-down-name {
+	width: 100rpx;
+	font-size: 24rpx;
+	color: #fffefe;
+	/* border: solid #000 1upx; */
+}
+.ven-down-xin {
+	width: 40rpx;
+	height: 40rpx;
+	margin-right: 10rpx;
+}
+.ven-down-num {
+	width: 60rpx;
+	font-size: 23rpx;
+	color: #fffefe;
+	/* border: solid #000 1upx; */
+}
+.s-local { 
+	line-height: 46rpx;
+	font-size: 26rpx;
+	height: 46rpx;
+	margin: 15rpx;
+	padding: 0 15rpx;
+	border-radius: 10rpx;
+	background: #ddd;
+}
+.zhan {
+	clear: both;
+}
+

@@ -1,0 +1,79 @@
+
+page {
+	background: #fff;
+}
+.kong {
+	background: #f6f6f6;
+}
+.sr-title {
+	font-size: 26rpx;
+	color: #4e4e4e;
+}
+.sr-money {
+	font-size: 30rpx;
+	color: #ff2828;
+	margin-top: 10rpx;
+}
+.no-border {
+	border: none !important;
+}
+.header {
+	width: 633rpx;
+	height: 409rpx;
+	border-radius: 16rpx;
+	margin: auto;
+	box-shadow: 0 0 20rpx rgb(0, 0, 0, 0.2);
+}
+.name {
+	font-size: 32rpx;
+	padding: 24rpx 0rpx 19rpx;
+}
+.name image {
+	margin-right: 12rpx;
+	width: 32rpx;
+	height: 32rpx;
+}
+.position {
+	font-size: 22rpx;
+	margin-bottom: 10rpx;
+}
+.xian {
+	padding-top: 51rpx;
+	border-right: solid 1rpx #dcdcdc;
+}
+.top-cd {
+	border-right: solid 1rpx #dcdcdc;
+	margin: 20rpx 0rpx;
+	font-size: 25rpx;
+	color: #000;
+}
+.top-cd view image {
+	width: 35rpx;
+	height: 35rpx;
+}
+.header-view {
+	padding: 30rpx 28rpx;
+	background: #fff;
+}
+.card-view {
+	width: 696rpx;
+	height: 284rpx;
+	background-color: #9c79e0;
+	border-radius: 18rpx;
+	color: #fff;
+	padding: 58rpx 35rpx 0rpx 47rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.btn {
+	width: 184rpx;
+	height: 68rpx;
+	background-color: #ffffff;
+	border-radius: 34rpx;
+	font-size: 26rpx;
+}
+

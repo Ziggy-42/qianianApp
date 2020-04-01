@@ -1,0 +1,58 @@
+{
+	"description": "项目配置文件。",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": false
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.9.2",
+	"appid": "wxe5b35699313844c6",
+	"projectname": "框架",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 0,
+			"list": [
+				{
+					"name": "我的",
+					"query": "",
+					"id": 0,
+					"pathName": "pages/tab/mine/mine"
+				},
+				{
+					"name": "商城",
+					"query": "",
+					"id": 1,
+					"pathName": "pages/index/index"
+				},
+				{
+					"name": "商城",
+					"query": "",
+					"id": 2,
+					"pathName": "pages/goods/index/index"
+				},
+				{
+					"name": "拼团详情",
+					"query": "",
+					"id": 3,
+					"pathName": "pages/goods/goodsGroup/goodsGroup"
+				}
+			]
+		}
+	}
+}

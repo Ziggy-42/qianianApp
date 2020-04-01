@@ -1,0 +1,206 @@
+
+page {
+	background-color: #fff;
+}
+.card-view {
+	width: 695rpx;
+	background-color: #ffffff;
+	border-radius: 18rpx;
+	border: solid 1rpx #e5e5e5;
+	margin: auto;
+	margin-bottom: 20rpx;
+	overflow: hidden;
+}
+.user-view {
+	margin-top: -250rpx;
+	padding: 35rpx;
+}
+.top-user .cu-avatar {
+	width: 104rpx;
+	height: 104rpx;
+	border: solid 3rpx #ffffff;
+	border-radius: 100rpx;
+	box-shadow: 0 0 10rpx rgba(0, 0, 0, 0.3);
+	margin-right: 20rpx;
+}
+.top-user {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	font-size: 28rpx;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.sex {
+	margin-left: 20rpx;
+}
+.bjben {
+	padding: 0rpx 20rpx;
+	height: 45rpx;
+	background-image: -webkit-linear-gradient(352deg, #f52618 0%, #ff895a 100%);
+	background-image: linear-gradient(98deg, #f52618 0%, #ff895a 100%);
+	border-radius: 23rpx;
+	font-size: 24rpx;
+	color: #ffffff;
+}
+.tu-view {
+	height: 96rpx;
+	padding: 0rpx 14rpx;
+	border-bottom: solid #eeeeee 1rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.tu-view .right {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+}
+.tu-view .right input {
+	width: 100%;
+	text-align: right;
+}
+.seven-btn {
+	width: 516rpx;
+	height: 64rpx;
+	background-color: #f52618;
+	border-radius: 32rpx;
+	color: #ffffff;
+	margin-top: 30rpx;
+}
+.test-view {
+	padding: 25rpx 20rpx;
+}
+.title {
+	font-size: 32rpx;
+	color: #2b2b2b;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	padding-left: 20rpx;
+}
+.title .qr-text {
+	font-size: 24rpx;
+	color: #adadad;
+}
+.r-btnview image {
+	width: 77rpx;
+	height: 77rpx;
+	border-radius: 1000rpx;
+	border: solid 1rpx #f5f5f5;
+	background-image: -webkit-linear-gradient(bottom, #fffafa 0%, #ffffff 100%);
+	background-image: linear-gradient(0deg, #fffafa 0%, #ffffff 100%);
+	/* box-shadow: 0upx 5upx 8upx 1upx rgba(204, 204, 204, 0.64); */
+	margin-left: 40rpx;
+}
+.biaozhun {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.biaozhun .bcolorview {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	text-align: center;
+}
+.biaozhun .bz-color-view-min {
+	width: 98%;
+	height: 34rpx;
+	background-color: #ffa63c;
+	border-radius: 17rpx 0rpx 0rpx 17rpx;
+	margin: auto;
+	font-size: 25rpx;
+	color: #ffffff;
+	line-height: 34rpx;
+}
+.biaozhun .bz-color-view-cenre {
+	width: 98%;
+	height: 34rpx;
+	background-color: #4ac372;
+	margin: auto;
+	font-size: 25rpx;
+	color: #ffffff;
+	line-height: 34rpx;
+}
+.biaozhun .bz-color-view-max {
+	width: 98%;
+	height: 34rpx;
+	background-color: #ff4d4d;
+	border-radius: 0rpx 17rpx 17rpx 0rpx;
+	margin: auto;
+	font-size: 25rpx;
+	color: #ffffff;
+	line-height: 34rpx;
+}
+.biaozhun .text {
+	font-size: 24rpx;
+	line-height: 70rpx;
+	color: #adadad;
+}
+.jieguo {
+	height: 135rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.jieguo .jgview {
+	height: 73rpx;
+	background-color: #eef4ff;
+	border-radius: 37rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	padding: 0rpx 25rpx;
+	color: #2c7bff;
+	position: relative;
+}
+.jieguo .jgview .name {
+	font-size: 26rpx;
+}
+.jieguo .jgview .num {
+	font-size: 36rpx;
+	margin-right: 10rpx;
+}
+.jieguo .jgview .dwei {
+	font-size: 30rpx;
+}
+.jieguo .jgview .biao {
+	width: 34rpx;
+	height: 34rpx;
+	background-color: #eef4ff;
+	-webkit-transform: rotate(45deg);
+	        transform: rotate(45deg);
+	position: absolute;
+	bottom: -17rpx;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+.cu-bar {
+	height: 120rpx;
+	font-size: 34rpx;
+}
+

@@ -1,0 +1,6 @@
+
+.rmen-list .c-icon {
+	width: 100rpx;
+	height: 100rpx;
+}
+

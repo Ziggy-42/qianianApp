@@ -1,0 +1,14 @@
+
+page {
+	background: #fff;
+}
+.sendCode {
+	width: 158rpx;
+	height: 52rpx;
+	background-color: #e8f4ff;
+	border-radius: 8rpx;
+	text-align: center;
+	line-height: 52rpx;
+	color: #0088fe;
+}
+

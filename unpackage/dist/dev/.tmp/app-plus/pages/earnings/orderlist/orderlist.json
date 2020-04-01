@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "订单明细",
+  "usingComponents": {
+    "nolist": "/components/nolist",
+    "nomore": "/components/nomore"
+  }
+}

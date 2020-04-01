@@ -1,0 +1,116 @@
+
+.print1 {
+	width: 36rpx;
+	height: 36rpx;
+	margin: 0rpx 30rpx;
+}
+.down_view {
+	width: 100%;
+	height: 106rpx;
+	background-color: #ffffff;
+	box-shadow: 2rpx -1rpx 0rpx 0rpx rgba(205, 205, 205, 0.43);
+	color: #000;
+	font-size: 28rpx;
+	position: fixed;
+	bottom: 0rpx;
+}
+.pay {
+	width: 202rpx;
+	height: 108rpx;
+	line-height: 108rpx;
+	text-align: center;
+	font-size: 34rpx;
+	color: #000000;
+}
+.pay .cu-btn {
+	width: 169rpx;
+	height: 75rpx;
+	background-image: -webkit-linear-gradient(150deg, #ff4c29 0%, #ff7155 100%);
+	background-image: linear-gradient(-60deg, #ff4c29 0%, #ff7155 100%);
+	border-radius: 38rpx;
+	color: #fff;
+	font-size: 28rpx;
+	color: #ffffff;
+}
+.soldi-bottom {
+	border-bottom: solid 1rpx #e2e2e2;
+}
+.down {
+	height: 80rpx;
+	padding-right: 60rpx;
+}
+.right {
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	height: 100%;
+	width: 389rpx;
+	height: 148rpx;
+}
+.prin image {
+	width: 40rpx;
+	height: 40rpx;
+}
+.prin {
+	width: 80rpx;
+	text-align: center;
+	margin: 0rpx 10rpx;
+}
+.price {
+	font-weight: 550;
+	font-size: 28rpx;
+	color: #ff0101;
+}
+.goods-list .cu-avatar {
+	width: 177rpx;
+	height: 177rpx;
+	border-radius: 10rpx;
+	margin-right: 18rpx;
+}
+.goods-list {
+	width: 706rpx;
+	margin: 10rpx auto;
+	border-radius: 10rpx;
+	padding: 30rpx 50rpx 30rpx 0rpx;
+	margin-bottom: 33rpx;
+}
+.goods-rtop {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.goodsnamev {
+	height: 100rpx;
+}
+.goodsname {
+	text-align: justify;
+	font-size: 28rpx;
+	line-height: 45rpx;
+	color: #2f2f2f;
+	font-weight: 550;
+}
+.goodsdelata {
+	width: 40rpx;
+	text-align: center;
+	padding-top: 5rpx;
+	font-size: 40rpx;
+	color: #a7a7a7;
+}
+.goods-down {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.goods-down .price {
+	font-size: 28rpx;
+	font-weight: 550;
+}
+

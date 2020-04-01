@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "直播大厅",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "nolist": "/components/nolist",
+    "nomore": "/components/nomore"
+  }
+}

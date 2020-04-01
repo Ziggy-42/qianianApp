@@ -1,0 +1,39 @@
+
+page {
+	background: #ffffff;
+	height: 100%;
+	overflow: hidden;
+}
+.header {
+	width: 100%; 
+	z-index: 999;
+}
+.tab {
+	font-size: 28rpx;
+	color: #333333;
+}
+.c-tab text {
+	font-weight: 550;
+	border-bottom: solid #ffd100 8rpx;
+	padding: 21rpx;
+}
+.no-border {
+	border: none !important;
+}
+.basis-10 {
+	-webkit-flex-basis: 10%;
+	        flex-basis: 10%;
+}
+.basis-30 {
+	-webkit-flex-basis: 30%;
+	        flex-basis: 30%;
+}
+.list {
+	height: 102rpx;
+	border-bottom: solid #e2e2e2 2rpx;
+}
+.sm-avatar {
+	width: 62rpx;
+	height: 62rpx;
+}
+

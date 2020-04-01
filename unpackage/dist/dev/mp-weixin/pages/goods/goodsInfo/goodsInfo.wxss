@@ -1,0 +1,120 @@
+
+.wl-list {
+	font-size: 28rpx;
+	height: 140rpx;
+	padding: 0rpx 50rpx;
+	border-bottom: solid 1rpx #ececec;
+}
+.wl-list image {
+	width: 34rpx;
+	height: 34rpx;
+}
+.no-h-view {
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.padding-li {
+	padding: 0rpx 20rpx 0rpx 50rpx;
+}
+.x_view { 
+	padding: 0rpx 30rpx;
+	height: 56rpx;
+	line-height: 56rpx;
+	background: #ececec;
+	font-size: 24rpx;
+	text-align: center;
+	border-radius: 10rpx;
+	margin: 11rpx 20rpx 11rpx 0rpx;
+	color: #9f9f9f;
+}
+.bg-yellow1 {
+	background: #f52618;
+	color: #fff;
+}
+.t-view {
+	/* height: 284upx; */
+	border: solid 1rpx #c7c7c7;
+	margin-top: 32rpx;
+	padding: 20rpx 40rpx;
+	border-radius: 10rpx;
+}
+.soldi-bottom {
+	border-bottom: solid 2rpx #e2e2e2;
+}
+.ts-view {
+	padding: 0rpx 33rpx 0rpx 45rpx;
+	height: 77rpx;
+	background-color: #353535;
+	font-size: 28rpx;
+	color: #ffffff;
+}
+.ts-view .cu-btn {
+	width: 166rpx;
+	height: 48rpx;
+	font-size: 26rpx;
+	font-weight: 500;
+}
+.screen-swiper {
+	height: 511rpx;
+	background-color: #f0f0f0;
+}
+.padding-air {
+	padding: 35rpx 44rpx 35rpx 52rpx;
+}
+.li-view {
+	height: 105rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	background: #fff;
+	padding: 0rpx 36rpx;
+	border-bottom: solid #eeeeee 1rpx;
+}
+.li-title {
+	color: #1d1d1d;
+	font-size: 28rpx;
+	width: 180rpx;
+}
+.li-conten {
+	color: #989898;
+	font-size: 26rpx;
+	width: 460rpx;
+}
+.lin-color {
+	background-image: -webkit-linear-gradient(150deg, #dd00ac 0%, #fd59ff 100%);
+	background-image: linear-gradient(-60deg, #dd00ac 0%, #fd59ff 100%);
+	height: 75rpx;
+	font-size: 28rpx;
+	color: #ffffff;
+}
+.lin-color1 {
+	background-image: -webkit-linear-gradient(150deg, #9329ff 0%, #b000dd 100%);
+	background-image: linear-gradient(-60deg, #9329ff 0%, #b000dd 100%);
+	height: 75rpx;
+	font-size: 28rpx;
+	color: #ffffff;
+}
+.c-color {
+	color: #fe401b;
+}
+.x_goodsimg {
+	width: 184rpx;
+	height: 184rpx;
+	border-radius: 10rpx;
+	margin-right: 30rpx;
+	overflow: hidden;
+	border: solid 2rpx #ff0f0f;
+}
+.attr-action {
+	background-color: #ffffff;
+	border: solid 1rpx #ff0f0f;
+	font-size: 28rpx;
+	color: #9a9a9a;
+}
+

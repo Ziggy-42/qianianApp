@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "直播预告",
+  "usingComponents": {
+    "nomore": "/components/nomore",
+    "nolist": "/components/nolist"
+  }
+}

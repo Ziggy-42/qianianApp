@@ -1,0 +1,36 @@
+.form-group {
+	height: 120upx;
+	display: flex;
+	align-items: center;
+	padding: 0upx 45upx;
+	border-bottom: solid #eeeeee 1upx;
+}
+
+.form-group .title {
+	width: 200upx;
+	display: flex;
+	align-items: center;
+}
+
+.form-group .title .must {
+	width: 20upx;
+	color: #ff1a1a;
+}
+.form-group .right{
+	display: flex;
+	align-items: center;
+	height: 100upx;
+	flex: 1;
+}
+.form-group .right radio{
+	transform: scale(0.6);
+	margin-right: 15upx;
+}
+.form-group .right input{
+	flex: 1;
+	height: 100%;
+}
+.phclass {
+	font-size: 28rpx;
+	color: #b5b5b5;
+}

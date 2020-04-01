@@ -1,0 +1,1 @@
+<view><view class=" audio-view "><image class="playicon" src="/static/icon/audio-j.png"></image><view class="jindu"><view class="cu-progress round" style="height:8rpx;"><view class="bg-green" style="{{'width:'+(loading?'80%':'')+';'}}"></view></view></view><view>30:10</view></view></view>

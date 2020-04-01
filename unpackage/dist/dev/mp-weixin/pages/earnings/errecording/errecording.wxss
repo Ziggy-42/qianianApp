@@ -1,0 +1,48 @@
+
+page {
+	background: #ffffff;
+}
+.margin-top {
+	margin-top: 21rpx;
+}
+.lsit-item {
+	height: 148rpx;
+	padding: 0rpx 51rpx;
+	border-bottom: solid 1rpx #efefef;
+}
+.title-type {
+	font-size: 30rpx;
+	font-weight: 550;
+	margin-bottom: 20rpx;
+}
+.time-text {
+	color: #b3b2b2;
+	font-size: 24rpx;
+}
+.money-text {
+	font-size: 36rpx;
+	color: #ff3030;
+}
+.nav .cu-item {
+	height: 80rpx;
+	line-height: 80rpx;
+}
+.tab {
+	color: #8b8b8b;
+}
+.cu-item .down-solid {
+	width: 102rpx;
+	height: 5rpx;
+	background-color: #b701e5;
+}
+.action {
+	font-size: 28rpx;
+	color: #b701e5;
+}
+.action .down-solid {
+	background-color: #b701e5;
+	margin: auto;
+	position: relative;
+	top: -10rpx;
+}
+

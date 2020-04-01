@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "视频列表",
+  "usingComponents": {
+    "nomore": "/components/nomore",
+    "nolist": "/components/nolist"
+  }
+}

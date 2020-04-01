@@ -1,0 +1,14 @@
+
+.cu-custom {
+	z-index: 999999;
+	background: rgba(0, 0, 0, 0);
+}
+.skin1 {
+	background: #000000;
+	color: #aaaaaa;
+}
+.skin0 {
+	background: #1288ea;
+	color: #ffffff;
+}
+

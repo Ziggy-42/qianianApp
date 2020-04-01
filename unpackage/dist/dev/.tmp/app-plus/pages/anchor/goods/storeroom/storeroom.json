@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "产品库",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "nomore": "/components/nomore",
+    "nolist": "/components/nolist"
+  }
+}

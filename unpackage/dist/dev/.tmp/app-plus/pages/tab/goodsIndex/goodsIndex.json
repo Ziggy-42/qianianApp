@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "商城",
+  "enablePullDownRefresh": true,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "goodslist": "/components/goodslist",
+    "refresh": "/components/refresh/refresh"
+  }
+}

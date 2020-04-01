@@ -1,0 +1,16 @@
+
+.card-view {
+	width: 693rpx;
+	background-color: #ffffff;
+	box-shadow: 0rpx 3rpx 16rpx 0rpx rgba(204, 204, 204, 0.41);
+	border-radius: 12rpx;
+	border: solid 1rpx #eeeeee;
+	overflow: hidden;
+	margin: auto;
+	margin-top: 25rpx;
+}
+.c-icon{
+	width: 40rpx;
+	height: 40rpx;
+}
+

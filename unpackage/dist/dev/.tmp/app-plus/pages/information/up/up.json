@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "发布文章",
+  "usingComponents": {
+    "g-audio": "/components/gaudio"
+  }
+}

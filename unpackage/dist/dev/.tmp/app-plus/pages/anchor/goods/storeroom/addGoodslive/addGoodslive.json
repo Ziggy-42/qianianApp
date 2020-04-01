@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "添加商品",
+  "usingComponents": {
+    "nomore": "/components/nomore",
+    "nolist": "/components/nolist"
+  }
+}

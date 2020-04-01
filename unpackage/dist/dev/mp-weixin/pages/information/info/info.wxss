@@ -1,0 +1,73 @@
+
+.info-title {
+	padding: 35rpx;
+	font-size: 42rpx;
+	color: #292929;
+}
+.user-view {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	padding: 0rpx 40rpx;
+	font-size: 24rpx;
+	color: #949494;
+}
+.user-view .avatar {
+	width: 58rpx;
+	height: 58rpx;
+	margin-right: 15rpx;
+}
+.commentView {
+	padding: 0rpx 33rpx;
+	text-align: justify;
+	font-size: 30rpx;
+	color: #424242;
+	line-height: 52rpx;
+}
+.commentView image {
+	width: 100%;
+}
+.commentView .com-view {
+	margin: 40rpx 0rpx;
+}
+.commentView .com-view  .video-V{
+	 width: 100%;
+	 height: 350rpx;
+}
+.down-view {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	height: 110rpx;
+	position: fixed;
+	width: 100%;
+	bottom: 0;
+	background: #fff;
+}
+.down-view .btn {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	height: 110rpx;
+	line-height: 110rpx;
+	font-size: 25rpx;
+	color: #424242;
+	text-align: center;
+}
+.down-view .btn .icon {
+	font-size: 30rpx;
+	margin-right: 15rpx;
+}
+

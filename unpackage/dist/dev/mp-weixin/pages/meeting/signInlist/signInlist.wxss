@@ -1,0 +1,75 @@
+
+page {
+	background: #f3f3f3;
+}
+.header {
+	position: fixed;
+	width: 100%;
+}
+.list-view {
+	padding: 0rpx 25rpx;
+}
+.list-view .li-view {
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	padding: 32rpx;
+	background: #fff;
+	margin-bottom: 22rpx;
+}
+.list-view .li-view .image {
+	width: 180rpx;
+	height: 180rpx;
+	margin-right: 20rpx;
+	border-radius: 10rpx;
+}
+.title-view {
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	font-size: 30rpx;
+	color: #2f2f2f;
+}
+.title-view .cu-tag {
+	margin-right: 15rpx;
+	font-size: 24rpx;
+}
+.text-view {
+	width: 100%;
+	font-size: 24rpx;
+	color: #898989;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.text-view .icon {
+	width: 30rpx;
+	height: 30rpx;
+	margin-right: 15rpx;
+}
+.rigcode {
+	width: 170rpx;
+	text-align: center;
+	font-size: 22rpx;
+	line-height: 31rpx;
+	color: #4f74ff;
+}
+.rigcode image {
+	width: 96rpx;
+	height: 96rpx;
+	margin-bottom: 10rpx;
+}
+

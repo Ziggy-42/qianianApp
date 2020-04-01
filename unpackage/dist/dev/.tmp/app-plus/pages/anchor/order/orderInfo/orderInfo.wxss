@@ -1,0 +1,112 @@
+
+page {
+	background: #ffffff;
+}
+
+/* .right {
+	width: 510upx;
+	height: 140upx;
+	flex-wrap: wrap;
+} */
+.li {
+	width: 100%;
+}
+.tab {
+	height: 80rpx;
+	width: 50%;
+	line-height: 80rpx;
+	text-align: center;
+}
+.action {
+	font-weight: 550;
+}
+.action text {
+	padding: 15rpx;
+	border-bottom: solid #ffd100 6rpx;
+}
+.textr-title {
+	height: 80rpx;
+	border-bottom: solid #eeeeee 1rpx;
+	line-height: 80rpx;
+	padding: 0rpx 30rpx;
+}
+.textr-view {
+	padding-bottom: 20rpx;
+	position: relative;
+}
+.textr-textarea {
+	width: 90%;
+	background: #f0f0f0;
+	margin: 20rpx auto;
+	padding: 20rpx;
+	border-radius: 8rpx;
+}
+.connum {
+	position: absolute;
+	right: 10%;
+	bottom: 50rpx;
+}
+.white1 {
+	height: 15rpx;
+}
+.btn {
+	width: 100%;
+	text-align: center;
+	position: fixed;
+	background: #ffffff;
+	bottom: 0rpx;
+	padding: 20rpx;
+}
+.btn button {
+	width: 80%;
+	border-radius: 10rpx;
+	height: 80rpx;
+}
+.text-bl {
+	font-size: 32rpx;
+	color: #2c2c2c;
+	font-weight: 550;
+}
+.mb-20 {
+	font-size: 26rpx;
+	color: #a8a8a8;
+	line-height: 40rpx;
+}
+.copy-btn {
+	width: 186rpx;
+	height: 66rpx;
+	background-image: -webkit-linear-gradient(150deg, #9329ff 0%, #b000dd 100%);
+	background-image: linear-gradient(-60deg, #9329ff 0%, #b000dd 100%);
+	border-radius: 33rpx;
+	font-size: 26rpx;
+	color: #ffffff;
+}
+.address-view {
+	height: 90rpx;
+	padding: 0rpx 50rpx 30rpx;
+}
+.mode1-btn {
+	width: 100%;
+	height: 110rpx;
+	background-color: #fff;
+	font-size: 30rpx;
+	color: #b701e5;
+}
+.form-group {
+	padding: 0rpx 30rpx;
+	height: 130rpx;
+}
+.form-group label{
+	width: 170rpx;
+}
+.form-group uni-label {
+	width: auto;
+	margin-right: 25rpx;
+}
+.form-group input {
+	text-align: left;
+}
+.li-view label {
+	width: 180rpx;
+}
+

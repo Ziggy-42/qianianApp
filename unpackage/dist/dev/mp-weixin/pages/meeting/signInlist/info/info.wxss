@@ -1,0 +1,42 @@
+
+.card-view {
+	width: 698rpx;
+	height: 803rpx;
+	background-color: #ffffff;
+	border-radius: 20rpx;
+	margin: auto;
+	margin-top: 35rpx;
+	overflow: hidden;
+}
+.qrcode {
+	width: 348rpx;
+	height: 347rpx;
+	margin: 30rpx auto;
+}
+.text-view {
+	width: 100%;
+	font-size: 24rpx;
+	color: #535353;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.text-view .icon {
+	width: 30rpx;
+	height: 30rpx;
+	margin-right: 25rpx;
+}
+.solid-view {
+	height: 60rpx;
+	border-bottom: #eee dashed 1rpx;
+}
+.down-view {
+	padding: 40rpx;
+	line-height: 60rpx;
+	font-size: 28rpx;
+	color: #2f2f2f;
+}
+

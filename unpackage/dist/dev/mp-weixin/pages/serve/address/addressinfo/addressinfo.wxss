@@ -1,0 +1,29 @@
+
+page {
+	background: #ffffff;
+}
+.c-fonts {
+	font-size: 28rpx;
+	color: #333;
+}
+.b-width {
+	width: 500rpx;
+	margin-left: 126rpx;
+}
+.cu-btn {
+	width: 547rpx;
+	height: 72rpx;
+	background-color: #b000dd;
+	border-radius: 36rpx;
+	color: #ffffff;
+}
+.cu-form-group .title {
+	width: 180rpx;
+	font-size: 28rpx;
+	color: #373737;
+}
+.placeholder {
+	font-size: 28rpx;
+	color: #b3b3b3;
+}
+

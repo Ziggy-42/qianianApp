@@ -1,0 +1,1 @@
+<view><view><video class="video" src="{{info.file_url}}" poster="{{info.cover}}"></video></view><view class="title-view"><view style="font-size:30rpx;color:#232323;font-weight:550;">{{info.name}}</view><view style="font-size:30rpx;color:#232323;margin-top:25rpx;">{{info.chapter}}</view></view><view class="kong"></view><view style="height:120rpx;"></view></view>

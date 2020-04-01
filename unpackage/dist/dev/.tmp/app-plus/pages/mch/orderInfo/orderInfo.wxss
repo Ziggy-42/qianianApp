@@ -1,0 +1,186 @@
+
+page {
+	background: #f3f3f3;
+}
+.play-btn {
+	padding: 10rpx 20rpx;
+	color: #ffffff;
+	border-radius: 10rpx;
+}
+.footer {
+	height: 100rpx;
+	position: fixed;
+	bottom: 0rpx;
+	width: 100%;
+	padding: 0rpx 20rpx;
+	background: #ffffff;
+}
+.sqsh {
+	/* border: solid #000 1upx !important; */
+	padding: 0rpx 30rpx;
+	height: 70rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: end;
+	-webkit-justify-content: flex-end;
+	        justify-content: flex-end;
+	-webkit-align-content: center;
+	        align-content: center;
+}
+.text-li {
+	background: #ff6d6d;
+	color: #fff;
+	width: 117rpx;
+	height: 35rpx;
+	display: block;
+	text-align: center;
+	line-height: 35rpx;
+	float: left;
+	margin-left: 17rpx;
+}
+.text-price {
+	float: left;
+	display: block;
+	height: 35rpx;
+	line-height: 35rpx;
+	text-align: center;
+	font-size: 28rpx;
+	color: #333;
+}
+.text-f {
+	font-size: 26rpx;
+	color: #a8a8a8;
+	line-height: 46rpx;
+}
+.goodsinfo {
+	height: 176rpx;
+	padding: 0rpx 50rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.goodsimg {
+	width: 116rpx;
+	height: 116rpx;
+}
+.soldi-bottom {
+	border-bottom: solid #eeeeee 1rpx;
+}
+.shouh {
+	height: 50rpx;
+	border: 1rpx solid #bbb;
+	padding: 0 30rpx;
+	border-radius: 10rpx;
+	font-size: 24rpx;
+	background: #ffffff;
+}
+.li {
+	padding: 20rpx;
+	line-height: 50rpx;
+}
+.paytype {
+	padding-left: 20rpx;
+}
+.paytype .png {
+	margin-right: 30rpx;
+}
+.dzlist {
+	height: 80rpx;
+	padding: 0rpx 30rpx;
+}
+.dzlist .content {
+	width: 80%;
+}
+.print {
+	width: 33rpx;
+	height: 33rpx;
+}
+ 
+
+/* 新增样式 */
+.order-status {
+	height: 123rpx;
+	padding: 0rpx 40rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	font-size: 28rpx;
+	color: #b000dd;
+	background: #fff;
+	border-bottom: solid #eeeeee 1rpx;
+}
+.address-view {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	background: #fff;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	height: 178rpx;
+	padding: 0rpx 50rpx;
+}
+.address-left {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	font-size: 28rpx;
+	color: #2f2f2f;
+	line-height: 45rpx;
+}
+.address-left .tel {
+	color: #8b8b8b;
+	margin-left: 15rpx;
+}
+.addres-icon {
+	font-size: 45rpx;
+	color: #b701e5;
+	margin-right: 20rpx;
+	padding-top: 10rpx;
+}
+.foot-view {
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	height: 100rpx;
+	position: fixed;
+	bottom: 0rpx;
+	background: #fff;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	padding: 0rpx 40rpx;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.ol {
+	padding: 20rpx 0rpx;
+	background: #fff;
+}
+.li-view {
+	line-height: 40rpx;
+	min-height: 60rpx;
+	padding: 10rpx 38rpx;
+	background: #fff;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	font-size: 28rpx;
+}
+.li-view label {
+	width: 145rpx;
+	color: #969696;
+}
+

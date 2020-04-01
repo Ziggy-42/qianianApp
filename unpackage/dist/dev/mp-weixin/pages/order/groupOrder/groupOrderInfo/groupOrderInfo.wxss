@@ -1,0 +1,97 @@
+
+page {
+	background: #f0f0f0;
+}
+.play-btn {
+	padding: 10rpx 20rpx;
+	color: #ffffff;
+	margin-left: 20rpx;
+	border-radius: 10rpx;
+}
+.footer {
+	height: 100rpx;
+	position: fixed;
+	bottom: 0rpx;
+	width: 100%;
+	padding: 0rpx 20rpx;
+	background: #ffffff;
+}
+.sqsh {
+	/* border: solid #000 1upx !important; */
+	padding: 0rpx 30rpx;
+	height: 70rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: end;
+	-webkit-justify-content: flex-end;
+	        justify-content: flex-end;
+	-webkit-align-content: center;
+	        align-content: center;
+}
+.text-li {
+	background: #ff6d6d;
+	color: #fff;
+	width: 117rpx;
+	height: 35rpx;
+	display: block;
+	text-align: center;
+	line-height: 35rpx;
+	float: left;
+	margin-left: 17rpx;
+}
+.text-price {
+	float: left;
+	display: block;
+	height: 35rpx;
+	line-height: 35rpx;
+	text-align: center;
+	font-size: 28rpx;
+	color: #333;
+}
+.text-f {
+	font-size: 26rpx;
+	color: #a8a8a8;
+	line-height: 46rpx;
+}
+.goodsinfo {
+	height: 176rpx;
+	padding: 0rpx 50rpx;
+}
+.goodsimg {
+	width: 116rpx;
+	height: 116rpx;
+}
+.soldi-bottom {
+	border-bottom: solid #eeeeee 1rpx;
+}
+.shouh {
+	height: 50rpx;
+	border: 1rpx solid #bbb;
+	padding: 0 30rpx;
+	border-radius: 10rpx;
+	font-size: 24rpx;
+	background: #ffffff;
+}
+.li {
+	padding: 20rpx;
+	line-height: 50rpx;
+}
+.paytype {
+	padding-left: 20rpx;
+}
+.paytype .png {
+	margin-right: 30rpx;
+}
+.dzlist {
+	height: 80rpx;
+	padding: 0rpx 30rpx;
+}
+.dzlist .content {
+	width: 80%;
+}
+.print {
+	width: 33rpx;
+	height: 33rpx;
+}
+

@@ -1,0 +1,45 @@
+
+page {
+	background: #fff;
+}
+.bg-yanhong {
+	background-image: -webkit-linear-gradient(112deg, #ee9743 0%, #fc4355 48%, #f85150 74%, #f35e4a 100%);
+	background-image: linear-gradient(-22deg, #ee9743 0%, #fc4355 48%, #f85150 74%, #f35e4a 100%);
+}
+.top-view {
+	padding-top: 60rpx;
+}
+.top-view .fenshu {
+	font-size: 135rpx;
+	color: #ffffff;
+}
+.xtit {
+	font-size: 27rpx;
+	line-height: 102rpx;
+	color: #ffffff;
+}
+.card-view {
+	width: 695rpx;
+	background-color: #ffffff;
+	border-radius: 18rpx;
+	border: solid 1rpx #e5e5e5;
+	margin: auto;
+	margin-top: 30rpx;
+	overflow: hidden;
+	padding: 40rpx;
+}
+.card-view .title {
+	font-size: 30rpx;
+	line-height: 60rpx;
+	color: #2c2c2c;
+}
+.card-view .comment {
+	font-size: 28rpx;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 45rpx;
+	letter-spacing: 0rpx;
+	color: #878787;
+	text-align: justify;
+}
+

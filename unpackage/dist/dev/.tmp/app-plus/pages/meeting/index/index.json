@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "会务报名",
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "tabview": "/components/tabview"
+  }
+}

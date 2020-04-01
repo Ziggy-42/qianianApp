@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "搜索",
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "goodslist": "/components/goodslist",
+    "nolist": "/components/nolist"
+  }
+}

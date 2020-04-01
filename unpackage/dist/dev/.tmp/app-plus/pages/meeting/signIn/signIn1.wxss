@@ -1,0 +1,45 @@
+
+page {
+	background: #fff;
+}
+.card-view {
+	width: 695rpx;
+	background-color: #ffffff;
+	border-radius: 20rpx;
+	border: solid 1rpx #e5e5e5;
+	overflow: hidden;
+	margin: auto;
+	margin-bottom: 25rpx;
+}
+.card-view .title {
+	width: 618rpx;
+	height: 118rpx;
+	line-height: 118rpx;
+	margin: auto;
+	font-size: 30rpx;
+	color: #2c2c2c;
+	border-bottom: solid #e5e5e5 1rpx;
+}
+.plclass {
+	font-size: 28rpx;
+	color: #b5b5b5;
+}
+.pradio {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	font-size: 28rpx;
+	color: #878787;
+	height: 80rpx;
+}
+.pradio radio {
+	-webkit-transform: scale(0.8);
+	        transform: scale(0.8);
+}
+

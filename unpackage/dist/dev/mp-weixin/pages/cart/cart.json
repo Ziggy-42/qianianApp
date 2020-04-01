@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "购物车",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "chun-lei-modal": "/components/chunLei-modal/chunLei-modal"
+  }
+}

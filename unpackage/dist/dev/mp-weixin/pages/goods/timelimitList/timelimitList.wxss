@@ -1,0 +1,75 @@
+
+page {
+	background: #eee;
+}
+.padding-air {
+	padding: 35rpx;
+}
+.img {
+	height: 332rpx;
+	background-size: cover;
+	position: relative;
+}
+.img-nview {
+	width: 332rpx;
+	height: 168rpx;
+	background: rgba(255, 255, 255, 0.6);
+	color: #000;
+	text-align: center;
+	font-size: 30rpx;
+}
+.time-view {
+	width: 36rpx;
+	height: 36rpx;
+	background-color: #353535;
+	line-height: 36rpx;
+	text-align: center;
+	color: #ffffff;
+	margin: 0rpx 10rpx;
+	font-size: 23rpx;
+}
+.time-title {
+	margin-top: 43rpx;
+	margin-bottom: 18rpx;
+}
+.tag {
+	font-size: 22rpx;
+	background-color: #ffd100;
+	padding: 5rpx 14rpx;
+}
+.price {
+	font-size: 36rpx;
+	color: #ff4040;
+	font-weight: 550;
+}
+.old-price {
+	font-size: 28rpx;
+	margin: 0rpx 40rpx 0rpx 30rpx;
+}
+.goode-name {
+	font-size: 32rpx;
+	color: #3a3a3a;
+	font-weight: 550;
+	padding: 15rpx 0rpx;
+}
+.goods-conten {
+	font-size: 27rpx;
+}
+.goods-li1 {
+	border-radius: 12rpx;
+	border: solid 2rpx #e6e6e6;
+	overflow: hidden;
+	margin-bottom: 34rpx;
+}
+.goods-info {
+	padding: 30rpx 40rpx;
+}
+.play-btn {
+	height: 60rpx;
+	font-size: 26rpx;
+	background-image: -webkit-linear-gradient(150deg, #ff4c29 0%, #ff7155 100%);
+	background-image: linear-gradient(-60deg, #ff4c29 0%, #ff7155 100%);
+	border-radius: 28rpx;
+	color: #fff;
+}
+

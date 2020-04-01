@@ -1,0 +1,9 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "cu-custom": "/colorui/components/cu-custom",
+    "goodslist": "/components/goodslist",
+    "nolist": "/components/nolist"
+  }
+}

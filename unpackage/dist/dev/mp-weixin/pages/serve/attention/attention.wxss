@@ -1,0 +1,35 @@
+
+page{
+		background: #fff;
+}
+.text-block {
+	color: #434343;
+	font-size: 30rpx;
+}
+.cu-list.menu-avatar>.cu-item{
+	height: 200rpx;
+}
+.cu-list.menu-avatar > .cu-item .action {
+	width: 80rpx;
+	font-size: 40rpx;
+	color: #bfbfbf;
+}
+.btn {
+	background-color: #ffd100;
+	border-radius: 4rpx;
+	padding: 11rpx 20rpx;
+	font-size: 26rpx;
+}
+.huguan {
+	background-color: #e3e3e3;
+	color: #707070;
+}
+.cu-list.menu-avatar>.cu-item .content{
+	left: 180rpx;
+}
+.avatar{
+	width: 120rpx;
+	height: 120rpx;
+	margin-right: 20rpx;
+}
+

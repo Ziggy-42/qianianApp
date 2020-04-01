@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "创建直播间",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom"
+  }
+}

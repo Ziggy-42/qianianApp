@@ -1,0 +1,40 @@
+
+.goodslist1 .goods-img {
+	width: 160rpx;
+	height: 160rpx;
+	border-radius: 10rpx;
+	overflow: hidden;
+	margin-right: 25rpx;
+}
+.goods-top-view {
+	height: 110rpx;
+	width: 450rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	padding-top: 10rpx;
+}
+.goods-top-view .cuIcon-delete {
+	font-size: 42rpx;
+}
+.goods-top-view .title-view {
+	margin-top: 3rpx;
+	font-size: 28rpx;
+	color: #313131;
+}
+.down-view {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	font-size: 25rpx;
+}
+
